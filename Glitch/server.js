@@ -4,10 +4,10 @@ const axiosBase = require('axios');
 const discord = require('discord.js');
 const client = new discord.Client();
 
-const mainChannelId = "687267790637236225";
-const voiceChannelId = "685489964976177152";
+const mainChannelId = "[テキストチャンネルのID]";
+const voiceChannelId = "[ボイスチャンネルのID]";
 
-const url = "/macros/s/AKfycbzW8u-ZOVNQdcoXaDX3D7P2LVdPH2wQMlIHda5kF3ccPnc6CsXIxxo7nQ/exec";
+const url = "[GASのPOSTURL/ドメイン以降]";
 
 http.createServer( (req, res) =>{
 	if (req.method === 'POST'){

@@ -1,4 +1,4 @@
-var GLITCH_URL = "https://faceted-quilted-saver.glitch.me";
+var GLITCH_URL = "[GlitchのURL]";
 
 function wakeGlitch(){
  var json = {
