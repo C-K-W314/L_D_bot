@@ -12,4 +12,4 @@ Discordでbotにリプライを送ると返信する
 Discordのテキストチャンネルで「ぬるぽ」と発言した場合「ガッ」を返す  
 LINEのグループで「ぬるぽ」と発言した場合「ガッ」を返す  
 
-(https://user-images.githubusercontent.com/76941709/103762145-2650af00-505b-11eb-8a64-8ebbd41f88ec.png)
+![bot](https://user-images.githubusercontent.com/76941709/103762145-2650af00-505b-11eb-8a64-8ebbd41f88ec.png)
